@@ -1,0 +1,21 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "first_name": "Rowan",
+        "last_name": "Tamer",
+        "gender": "Female"
+      },
+      {
+        "id": 2,
+        "first_name": "Ali",
+        "last_name": "Tamer",
+        "gender": "Male"
+      },
+      {
+        "id": 3,
+        "first_name": "Shahd",
+        "last_name": "Tamer",
+        "gender": "Female"
+      }
+    ] }
